@@ -1,0 +1,59 @@
+{
+    "name": "Wildlife Park",
+    "animals": [
+        {
+            "type": "bird",
+            "name": "Parrot",
+            "age": 2,
+            "wing_span": 25
+        },
+        {
+            "type": "bird",
+            "name": "Dodo",
+            "age": 3,
+            "wing_span": 55
+        },
+        {
+            "type": "mammal",
+            "name": "Lion",
+            "age": 5,
+            "fur_type": "Short Fur"
+        },
+        {
+            "type": "mammal",
+            "name": "Tiger",
+            "age": 6,
+            "fur_type": "Long Fur"
+        },
+        {
+            "type": "reptile",
+            "name": "Snake",
+            "age": 3,
+            "scale_type": "Scales"
+        },
+        {
+            "type": "reptile",
+            "name": "Crocodile",
+            "age": 4,
+            "scale_type": "Scales"
+        }
+    ],
+    "staff": [
+        {
+            "role": "zookeeper",
+            "name": "Alice"
+        },
+        {
+            "role": "zookeeper",
+            "name": "Simona"
+        },
+        {
+            "role": "veterinarian",
+            "name": "Bob"
+        },
+        {
+            "role": "veterinarian",
+            "name": "Mike"
+        }
+    ]
+}
