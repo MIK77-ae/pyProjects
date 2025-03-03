@@ -1,2 +1,2 @@
-# first-repository-
+# first-repository
 репозиторий с кейсами
