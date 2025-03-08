@@ -11,9 +11,9 @@ import requests
 import random
 
 # --- Константы ---
-BOT_TOKEN = 'вставьте токен своего бота (Вы можете получить его через @BotFather в Телеграм)'
-WEATHER_API_KEY = 'вставьте токен своего API (Вы можете получить его на сайте api.openweathermap.org)'
-EXCHANGE_API_KEY = 'вставьте токен своего API (Вы можете получить его на сайте exchangerate-api.com)('
+BOT_TOKEN = 'Вставьте токен своего бота (Вы можете получить его через @BotFather в Телеграм)'
+WEATHER_API_KEY = 'Вставьте токен своего API (Вы можете получить его на сайте api.openweathermap.org)'
+EXCHANGE_API_KEY = 'Вставьте токен своего API (Вы можете получить его на сайте exchangerate-api.com)('
 
 # Основные валюты и города
 CURRENCIES = ['USD', 'EUR', 'GBP', 'JPY', 'CNY', 'RUB', 'AUD', 'CAD']

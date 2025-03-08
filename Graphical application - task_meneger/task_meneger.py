@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox, scrolledtext
 from datetime import datetime
 from tkcalendar import Calendar, DateEntry
 import json
-import webbrowser
+import webbrowser # Библиотека для открытия ссылок в браузере
 from urllib.parse import quote
 import winsound
 import os
@@ -15,7 +15,7 @@ responsible_list = {
     "Иванов И.И.": "Менеджер",
     "Петров П.П.": "Разработчик",
     "Сидоров С.С.": "Дизайнер",
-    "Козлов К.К.": "Тестировщик"
+    "Козлов К.А.": "Тестировщик"
 }
 
 # Путь к файлу с данными

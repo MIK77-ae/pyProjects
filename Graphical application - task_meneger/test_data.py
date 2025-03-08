@@ -29,7 +29,7 @@ def generate_random_tasks_and_responsibles(num_tasks=100, num_responsibles=50):
         full_name = f"{surname} {name[0]}.{patronymic[0]}."
         responsibles.append((full_name, position))
 
-    # Генерация задач
+    # Генерация задач и ответственных
     tasks = []
     current_date = datetime.now()
     
