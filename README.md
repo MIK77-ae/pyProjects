@@ -1,2 +1,2 @@
-# first-repository
+# pyProjects
 репозиторий с кейсами
